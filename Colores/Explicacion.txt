@@ -1,0 +1,1 @@
+Es un programa muy sencillo en el cual se le cambia el color a un Textfiel dependiendo del color seleccionado en los botones ya definidos
