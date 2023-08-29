@@ -1,0 +1,1 @@
+En este programa al ingresar tu edad mediante un condicional te dice si eres mayor o menos de edad en este caso siendo los 18 años en adelante la mayoria, asu vez integra un textfield en el cual al ingresar un texto y presionar enter se imprime ese mismo texto en la etiqueta que se encuentra abajo 
