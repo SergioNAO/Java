@@ -1,0 +1,3 @@
+En este proyecto final se elaboro un minijuego en el cual se van mostrando preguntas aleatorias y cada que se responde bien se optienen puntos
+Se hace uso de registro y creacion de usuarios directamente en el programa, cuenta con un usuario administrador que este puede modificar y 
+agregar preguntas  
